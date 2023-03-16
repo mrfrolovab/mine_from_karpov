@@ -1,0 +1,25 @@
+,date,browser,user_type,visits,rate
+0,2020-06-15,Google Chrome,People,250.0,42.1
+1,2020-06-15,Google Chrome,Robots,104.0,17.5
+2,2020-06-15,Yandex Browser,People,47.0,7.9
+3,2020-06-15,Firefox,Robots,31.0,5.2
+4,2020-06-15,Chrome Mobile,People,31.0,5.2
+5,2020-06-15,Firefox,People,27.0,4.5
+6,2020-06-15,Safari,Robots,22.0,3.7
+7,2020-06-15,Safari,People,19.0,3.2
+8,2020-06-15,Mobile Safari,People,15.0,2.5
+9,2020-06-15,Opera,People,11.0,1.9
+10,2020-06-15,Samsung Internet,People,8.0,1.3
+11,2020-06-15,Yandex Browser,Robots,7.0,1.2
+12,2020-06-15,Opera,Robots,5.0,0.8
+13,2020-06-15,UCWEB,Robots,4.0,0.7
+14,2020-06-15,Edge,People,4.0,0.7
+15,2020-06-15,Mobile Safari,Robots,1.0,0.2
+16,2020-06-15,Android Browser,People,1.0,0.2
+17,2020-06-15,Chromium,People,1.0,0.2
+18,2020-06-15,Chromium,Robots,1.0,0.2
+19,2020-06-15,Yandex: mobile app,People,1.0,0.2
+20,2020-06-15,Vivaldi,People,1.0,0.2
+21,2020-06-15,Edge,Robots,1.0,0.2
+22,2020-06-15,CocCoc,People,1.0,0.2
+23,2020-06-15,Samsung Internet,Robots,1.0,0.2
